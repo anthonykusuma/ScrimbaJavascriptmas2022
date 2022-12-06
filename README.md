@@ -5,4 +5,4 @@
 - Day 03: [Link to Scrim](https://scrimba.com/scrim/co888489f8d1971e13b22e579)
 - Day 04: [Link to Scrim](https://scrimba.com/scrim/cof23498396419eb54ef7b67f)
 - Day 05: [Link to Scrim](https://scrimba.com/scrim/cobd94c4b8695ecdd74088d0c)
-
+- Day 06: [Link to Scrim](https://scrimba.com/scrim/coe3a4086a48762ebe1b0b068)

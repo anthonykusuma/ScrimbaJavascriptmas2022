@@ -8,3 +8,5 @@
 - Day 06: [🌮 Taco Tray](https://scrimba.com/scrim/coe3a4086a48762ebe1b0b068)
 - Day 07: [🔡 Alternating Caps](https://scrimba.com/scrim/co4e3422ab5ecfe426d40b6a1)
 - Day 08: [🕰️ Valid Time](https://scrimba.com/scrim/co52e4e4191d64826350afe21)
+- Day 09: [🔠 toTitleCase()](https://scrimba.com/scrim/co6c74958b45340403a5b48fb)
+- Day 10: [📏 Sort by Length](https://scrimba.com/scrim/co5e3469ca2114674b6a49603)

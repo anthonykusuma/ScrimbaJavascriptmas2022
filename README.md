@@ -10,3 +10,4 @@
 - Day 08: [🕰️ Valid Time](https://scrimba.com/scrim/co52e4e4191d64826350afe21)
 - Day 09: [🔠 toTitleCase()](https://scrimba.com/scrim/co6c74958b45340403a5b48fb)
 - Day 10: [📏 Sort by Length](https://scrimba.com/scrim/co5e3469ca2114674b6a49603)
+- Day 11: [👽 Decode an Alien Message](https://scrimba.com/scrim/coafe4fc2beb32fdf3b9bcb8e)

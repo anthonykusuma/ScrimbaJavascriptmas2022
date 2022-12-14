@@ -12,3 +12,5 @@
 - Day 10: [📏 Sort by Length](https://scrimba.com/scrim/co5e3469ca2114674b6a49603)
 - Day 11: [👽 Decode an Alien Message](https://scrimba.com/scrim/coafe4fc2beb32fdf3b9bcb8e)
 - Day 12: [☕️ Breakfast Menu](https://scrimba.com/scrim/coa46466f88b5dc842e60f9f1)
+- Day 13: [😀 Emojify!](https://scrimba.com/scrim/co20c4b8abd2cf2e8f0b5d197)
+- Day 14: [🧮 Count Vowel Consonant](https://scrimba.com/scrim/co1504a59a275970bffa9b7ce)

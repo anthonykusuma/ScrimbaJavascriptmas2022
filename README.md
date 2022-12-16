@@ -14,3 +14,5 @@
 - Day 12: [☕️ Breakfast Menu](https://scrimba.com/scrim/coa46466f88b5dc842e60f9f1)
 - Day 13: [😀 Emojify!](https://scrimba.com/scrim/co20c4b8abd2cf2e8f0b5d197)
 - Day 14: [🧮 Count Vowel Consonant](https://scrimba.com/scrim/co1504a59a275970bffa9b7ce)
+- Day 15: [↔️ Palindromes](https://scrimba.com/scrim/co73448faa8271eb83867bcf3)
+- Day 16: [🤖 Insert Dashes](https://scrimba.com/scrim/co0b54ead9126d2da01d64c66)

@@ -16,3 +16,4 @@
 - Day 14: [🧮 Count Vowel Consonant](https://scrimba.com/scrim/co1504a59a275970bffa9b7ce)
 - Day 15: [↔️ Palindromes](https://scrimba.com/scrim/co73448faa8271eb83867bcf3)
 - Day 16: [🤖 Insert Dashes](https://scrimba.com/scrim/co0b54ead9126d2da01d64c66)
+- Day 17: [🐱 Pumpkin's Prizes](https://scrimba.com/scrim/co98b470db9228486113ffa59)

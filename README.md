@@ -17,3 +17,4 @@
 - Day 15: [↔️ Palindromes](https://scrimba.com/scrim/co73448faa8271eb83867bcf3)
 - Day 16: [🤖 Insert Dashes](https://scrimba.com/scrim/co0b54ead9126d2da01d64c66)
 - Day 17: [🐱 Pumpkin's Prizes](https://scrimba.com/scrim/co98b470db9228486113ffa59)
+- Day 18: [🍬 Candies](https://scrimba.com/scrim/cob8840b0b6a94423544a78c6)

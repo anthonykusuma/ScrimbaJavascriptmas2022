@@ -18,3 +18,5 @@
 - Day 16: [🤖 Insert Dashes](https://scrimba.com/scrim/co0b54ead9126d2da01d64c66)
 - Day 17: [🐱 Pumpkin's Prizes](https://scrimba.com/scrim/co98b470db9228486113ffa59)
 - Day 18: [🍬 Candies](https://scrimba.com/scrim/cob8840b0b6a94423544a78c6)
+- Day 19: [📆 Century From Year](https://scrimba.com/scrim/co8fa4ecfb1f378ebe7105ff6)
+- Day 20: [🎙️ Find Free Podcasts](https://scrimba.com/scrim/coa2f4790b3398bfe3029c956)

@@ -20,3 +20,4 @@
 - Day 18: [🍬 Candies](https://scrimba.com/scrim/cob8840b0b6a94423544a78c6)
 - Day 19: [📆 Century From Year](https://scrimba.com/scrim/co8fa4ecfb1f378ebe7105ff6)
 - Day 20: [🎙️ Find Free Podcasts](https://scrimba.com/scrim/coa2f4790b3398bfe3029c956)
+- Day 21: [💻 Definitely Not FizzBuzz](https://scrimba.com/learn/javascriptmas/💻-Definitely-Not-FizzBuzz-cPPRdLTv)
